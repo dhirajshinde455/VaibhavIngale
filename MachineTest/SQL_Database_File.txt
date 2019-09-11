@@ -1,0 +1,29 @@
+create table tblUser
+(
+Id int primary key,
+UserName varchar(50),
+Password nvarchar(50)
+)
+
+insert into tblUser values (1,'Vaibhav',1234)
+insert into tblUser values (2,'Dhiraj',1234)
+insert into tblUser values (3,'Manjunath',1234)
+
+
+
+
+create table FoodItems
+(
+Id int primary key,
+FoodItem varchar(80),
+Category varchar(80),
+Price int
+)
+select  id,FoodItem+'('+cast(price as varchar)+')' as items 
+from FoodItems
+insert into FoodItems values (1,'Tea','Beverage',10)
+insert into FoodItems values (2,'Coffee','Beverage',20)
+insert into FoodItems values (3,'Milk','Beverage',30)
+insert into FoodItems values (4,'Pizza','Snacks',100)
+insert into FoodItems values (5,'Burger','Snacks',150)
+insert into FoodItems values (6,'Frankie','Snacks',200)
