@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\GitHub\Vaibhav_repo\MachineTest\Ado.net\bin\Ado.net.dll
+C:\Users\hp\Documents\GitHub\Vaibhav_repo\MachineTest\Ado.net\bin\Ado.net.pdb
+C:\Users\hp\Documents\GitHub\Vaibhav_repo\MachineTest\Ado.net\obj\Debug\Ado.net.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Vaibhav_repo\MachineTest\Ado.net\obj\Debug\Ado.net.dll
+C:\Users\hp\Documents\GitHub\Vaibhav_repo\MachineTest\Ado.net\obj\Debug\Ado.net.pdb
